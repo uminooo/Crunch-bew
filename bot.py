@@ -24,9 +24,9 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='repla
 
 # ==================== CONFIG ====================
 BOT_TOKEN = "8974919847:AAFh4RVX9z8L3sUYVWgTm5DS3wGSQNHcpMU"
-OWNER_ID = 8189708860
+OWNER_ID = 8406082965
 CHANNEL_LINK = "https://t.me/uminoox"
-CHANNEL_ID = -1003808606039
+CHANNEL_ID = -1004370504156
 MAX_RETRIES = 3
 MAX_RETRIES_ADMIN = 8
 POST_AUTH_RETRIES = 3
