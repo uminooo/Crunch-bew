@@ -23,9 +23,9 @@ logger = logging.getLogger(__name__)
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 # ==================== CONFIG ====================
-BOT_TOKEN = "8921106082:AAGg6cfpj_Yo_k4C627ob6vSij9fU6cjyDg"
+BOT_TOKEN = "8974919847:AAFh4RVX9z8L3sUYVWgTm5DS3wGSQNHcpMU"
 OWNER_ID = 8189708860
-CHANNEL_LINK = "https://t.me/+2YhAjjTUB8g3YTFk"
+CHANNEL_LINK = "https://t.me/uminoox"
 CHANNEL_ID = -1003808606039
 MAX_RETRIES = 3
 MAX_RETRIES_ADMIN = 8
